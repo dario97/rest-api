@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Harry Potter y la piedra filosofal",
+    "authorId": "2"
+  },
+  {
+    "id": "2",
+    "name": "Cien años de Soledad",
+    "authorId": "3"
+  }
+]
